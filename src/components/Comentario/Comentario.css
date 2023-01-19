@@ -1,0 +1,15 @@
+.comentario {
+  width: 450px;
+  border: 1px solid black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 5px 5px 5px #16161f;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  text-align: center;
+  padding: 20px;
+  margin: 15px;
+}
